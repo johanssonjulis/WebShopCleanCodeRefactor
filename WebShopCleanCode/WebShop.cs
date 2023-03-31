@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace WebShopCleanCode
 {
-    public class WebShop
+    public class WebShop//hej
     {
         bool running = true;
         Database database = new Database();
