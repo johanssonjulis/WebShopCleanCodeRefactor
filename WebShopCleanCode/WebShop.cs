@@ -690,6 +690,7 @@ namespace WebShopCleanCode
         public void LogOut()
         {
             state.ChangeState(this);
+            //hej
         }
 
         private void CanLogIn(bool found)
