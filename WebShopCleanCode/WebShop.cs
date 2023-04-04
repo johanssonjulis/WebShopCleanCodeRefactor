@@ -685,7 +685,7 @@ namespace WebShopCleanCode
         public void LogIn()
         {
             state.ChangeState(this);
-        }
+        }//test
 
         public void LogOut()
         {
